@@ -1,6 +1,7 @@
 .row {
   color: white;
   margin-left: 10px;
+  padding-top: 20px;
 }
 .row__cardboards {
   display: flex;
