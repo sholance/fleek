@@ -24,9 +24,9 @@
 }
 .row__cardboardLarge {
   max-height: 250px;
-  margin-right: 25px;
+  margin-right: 10px;
 }
-.row__cardboardLarge {
+.row__cardboardLarge:hover {
   transform: scale(1.09);
   opacity: 1;
 }
